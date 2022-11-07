@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+#time{
+    font-size: 35px;
+    float: right;
+    margin-right: 20px;
+}
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+}
+p,span{
+    padding-top: 10px;
+    font-family: Arial;
+    font-size: 25px;
+}
+canvas{
+    margin-top: 100px;
+}
